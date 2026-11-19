@@ -5,8 +5,8 @@
 
 | Роль | Участник |
 | --- | --- |
-| Тимлид / аналитик | Зайцев А.А. |
-| Frontend | Казакова А.В. |
+| Тимлид / аналитик | Казакова А.В. |
+| Frontend | Зайцев А.А. |
 | Backend | Севостьянова Е.К. |
 
 Стек: FastAPI, SQLAlchemy 2, Alembic, PostgreSQL 16, Docker; React + TypeScript + Tailwind + Leaflet (frontend).
